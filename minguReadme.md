@@ -119,4 +119,4 @@ OOV(Out Of Vocabulary)은 자연어 처리(NLP)에서 빈번히 발생하는 데
 - 역전파법 (Backpropagation)
 역전파법은 네트워크가 끝나는 부분에서 시작되어 네트워크가 추측하는 것이 얼마나 잘못됐는지 보이는 것이며
 입력값에 도달하기까지 가중치를 조정하면서 반대방향으로 진행된다.
-![image04.png](C:\asm) 
+![image04.png](https://d262ilb51hltx0.cloudfront.net/max/1600/1*cywgo_I0fAPw4QqGh8gwRg.png) 
