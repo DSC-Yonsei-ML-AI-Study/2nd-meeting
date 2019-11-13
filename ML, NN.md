@@ -1,7 +1,7 @@
 # 이번 회차 Keyword
 1. 머신러닝 이론
     - 회귀와 분류의 공통점과 차이점
-      □ 분류(Classification)
+     □ 분류(Classification)
       - 미리 정의된, 가능성 있는 여러 class label중 하나를 예측하는 것!
         ◇ 이진 분류(binary classfication)
           - 두개로만 나누어 분류.
