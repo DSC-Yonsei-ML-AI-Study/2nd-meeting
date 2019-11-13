@@ -113,8 +113,8 @@ OOV(Out Of Vocabulary)은 자연어 처리(NLP)에서 빈번히 발생하는 데
 전향 전파법은 input 훈련 데이터로부터 출력값을 계산하고
 각 출력 뉴런에서의 오차를 계산하며 입력값에서 층을 통해 출력값으로 정보가 흘러가기 때문에 forward propagation으로 불린다.
 - 시그모이드 함수를 어디에 적용하는가?
-![image02.png](C:\asm)
-![image03.png](C:\asm)    
+![image02.png](https://miro.medium.com/max/2998/1*0TGxsf-xrp2ELhNfBWNfHA.png)
+![image03.png](https://miro.medium.com/max/598/0*2rD1AiR62dfq7J3O.)    
 
 - 역전파법 (Backpropagation)
 역전파법은 네트워크가 끝나는 부분에서 시작되어 네트워크가 추측하는 것이 얼마나 잘못됐는지 보이는 것이며
